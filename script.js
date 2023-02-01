@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const msgEl = document.getElementById('msg');
 
 const randomNum = getRandomNumber();
@@ -74,3 +75,13 @@ document.body.addEventListener('click', e => {
         window.location.reload();
     }
 });
+=======
+const msgE1 = document.getElementById('msg');
+
+
+const randomNum = getRandomNumber();
+
+console.log('Number:',randomNum);
+
+window.Sp
+>>>>>>> 44e67b7bc6ad49a06802c88ade21c23480a72e81
